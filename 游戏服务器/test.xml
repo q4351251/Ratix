@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<RootNode>
+	<Node1 AttName="Node1">First Node1 value</Node1>
+	<Node1 AttName="Node2">
+		<Node11 mode="0">模式</Node11>
+		<Node11 los="5000">N输分底线</Node11>
+		<Node11 win="5000">赢分底线</Node11>
+		<Node11 shark="6000">开鲨鱼底线</Node11>
+
+	</Node1>
+</RootNode>
